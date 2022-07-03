@@ -1,4 +1,5 @@
-![Moemen Gaber](https://moemengaber.com/logo.png).
+<img src="https://moemengaber.com/white_logo.png" width="200" height="auto" />
+
 
 
 # 💫 About Me:
