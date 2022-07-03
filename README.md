@@ -1,11 +1,11 @@
 <div align="center">
 <img src="https://moemengaber.com/white_logo.png" width="200" height="auto" />
+<br/><br/>
 
-
-
+<div align="left">
 # 💫 About Me:
 ⛵ I live in in Alexandria, Egypt.<br>👀 I’m interested in software engineering. <br>🐘 I'm interested in PHP, Backend technologies, and Mobile Development (Flutter)..<br>🌱 I’m currently learning Flutter & mobile development.<br>💞️ I’m looking to collaborate on any open source project written with PHP to increase my knowledge.<br>📫 How to reach me, you can send an email to "support@moemengaber.com" and i'll contact you ASAP i see your message.
-
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moemengaber) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imoemengaber) 
