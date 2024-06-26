@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://moemengaber.com/white_logo.png" width="200" height="auto" />
+<img src="https://i.ibb.co/6HDK8YY/white-logo.png" width="200" height="auto" />
 <br/><br/>
 </div>
 
